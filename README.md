@@ -21,8 +21,10 @@ sh ./mainscripts/trainANDeval.sh
 |:-:|:-:|:-:|  
 | AlexNet | 160 | 55.141% |
 
-## Evaluation is run at the same time with trainging, for each 5 epochs run, the average precision is calculated, for 160 epochs, this is the result:
+### Evaluation is run at the same time with trainging, for each 5 epochs run, the average precision is calculated, for 160 epochs, this is the result:
+
 <p align="center">
   <img  src="https://github.com/abdullah-zaiter/Pascal-VOC-Classfication-AlexNet/blob/master/docs/GraphAlexNet.png">
 </p>
+
 #### Training  took 4 hours running on Nvidia 1070 !... trainging on CPU is not recommended.
