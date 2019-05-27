@@ -6,7 +6,7 @@
 * scipy version > 1  
 * VOCdevkit 2007 (the script voc2007 inside mainscripts can be used to    download the database)
 
-Note: you can also download the conda environment i am using:
+Note: you can also import the conda environment i am using:
 ```
 docs/environment.yaml
 ```
@@ -21,4 +21,4 @@ sh ./mainscripts/trainANDeval.sh
 |:-:|:-:|:-:|  
 | AlexNet | 160 | 55.141% |
 
-## Trainging  took 4 hours running on Nvidia 1070 !... trainging on CPU is not recommended.
+#### Training  took 4 hours running on Nvidia 1070 !... trainging on CPU is not recommended.
