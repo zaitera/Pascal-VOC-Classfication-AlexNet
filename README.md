@@ -27,4 +27,4 @@ sh ./mainscripts/trainANDeval.sh
   <img  src="https://github.com/abdullah-zaiter/Pascal-VOC-Classfication-AlexNet/blob/master/docs/GraphAlexNet.png">
 </p>
 
-#### Training  took 4 hours running on Nvidia 1070 !... trainging on CPU is not recommended.
+#### Training  took 4 hours running on Nvidia 1070 !... training on CPU is not recommended.
